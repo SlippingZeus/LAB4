@@ -1,0 +1,6 @@
+ES5:
+- var
+
+ES6:
+- let
+- "use strict" na początku
